@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-  $(".col-3").click(function() {
+  $(".flashcard").click(function() {
     $(this).toggleClass('show')
   });
 });
