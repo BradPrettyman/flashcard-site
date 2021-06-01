@@ -1,7 +1,7 @@
-p, .show h3 {
+p, .flipped h3 {
   display: none;
 }
 
-.show p, h3 {
+.flipped p, h3 {
   display: block;
 }
